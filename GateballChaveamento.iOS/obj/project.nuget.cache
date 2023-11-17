@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ocy4rbRdUFpwOgR4Uo2+lCsQ1roZcNNJXaXco0rkoNIixNM3fgXOIgAH1BIPqb/k87czxF92EKKo114mW4eDAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yo\\source\\repos\\GateballChaveamento\\GateballChaveamento.iOS\\GateballChaveamento.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Yo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Yo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
